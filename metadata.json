@@ -1,0 +1,8 @@
+{
+  "name": "KSIA Egress, Lighting and Warden Readiness Inspection",
+  "description": "Specialized safety inspection tool for King Salman International Airport focusing on Egress, Lighting, Warden Equipment, and PPE compliance as per Fire Safety Leadership Section 2.2.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
